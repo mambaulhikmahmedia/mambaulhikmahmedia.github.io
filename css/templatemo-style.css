@@ -644,7 +644,7 @@ http://www.templatemo.com/tm-509-hydro
 
   .google-map {
     border-radius: 100%;
-    width: 300px;
+    width: 100%;
     height: 300px;
     overflow: hidden;
     margin: 0 auto;
@@ -652,7 +652,7 @@ http://www.templatemo.com/tm-509-hydro
 
   .google-map iframe {
     border: 0;
-    width: 300px;
+    width: 100%;
     height: 300px;
   }
 
